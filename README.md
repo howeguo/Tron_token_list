@@ -1,1 +1,2 @@
-# Tron_token_list
+#List trc10 tokens of TRON Network
+Supports Mainnet、Shasta testnet
